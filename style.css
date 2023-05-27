@@ -7,7 +7,7 @@ header {
     font: arial;
   }
 
-button{
+button {
   background-color: #4CAF50; /* Green */
   border: none;
   color: white;
@@ -22,4 +22,12 @@ button{
 button:hover {
   background-color: #4CAF50; /* Green */
   color: white;
+}
+
+.background {
+  background-color:skyblue;
+}
+
+#colored {
+  background-color: indigo;
 }
